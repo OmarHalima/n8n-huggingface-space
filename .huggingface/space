@@ -1,0 +1,7 @@
+title: "N8N Workflow Automation"
+emoji: 🔄
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 5678
+pinned: false
